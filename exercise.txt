@@ -1,0 +1,247 @@
+1) write a program to findout area of triangle, take input from user. 
+2) write a program to findout area of circle. take input form user. 
+3) write a program to findout volume of room. take input from user. 
+4) write a program to convert celsius into fahrenheit.  take input from user. 
+5) write a program to convert KM into miles. take input from user. 
+
+list
+-------------
+1) create list of fixed type and fixed size to store only 11 player score and display it.
+2) create list of fixed type and fixed size to store only location of 11 state capital in india. store latitude in list longitude in another list. 
+3) create list of teams that will take part in ODI world cup 2027
+
+4) create list and use below methods 
+    contains
+    indexOf()
+    removeAt()
+    removeRange()
+    lastIndexOf()
+    length property 
+    sort list
+
+Map 
+------------------------------------
+1) create HashMap to store cricketer below detail
+        name, dob, runs, match, fifty, century, avg 
+    and display it 
+2) create LinkedHashMap to store team's below detail
+        name, test, win, loss, tie, draw, WorldChampion
+3) create SplayTreeMap to store state detail
+        name, CM, language, area, population, perPersonIncome, litracyRate
+    and display it 
+
+
+5) write a program to accept length & width from user, decide and display whether shape is potrait or landscape using ternary operator.
+
+6) write a program to accept purchase & sale price of product from user. decide and display profit or loss.
+
+
+decision making 
+-------------------------
+use simple decision making if 
+2) write a program to convert 24 hours format time into 12 hours format time & display it 
+3) write a program to findout when triangle is bigger triangle from given base & height it. 
+
+use if else decision making
+4) write a program to findout which product is cheper to buy(as per price per gram) using given weight & MRP of 2 product.
+5) write a program to findout cheapter internet plan using Plan Price & data pack if offers of 2 plan
+
+6) write a program to findout which stock will give better return in terms dividend per 100 Rs from given 2 stock's market price and last year dividend.
+
+use if else if ladder decision making statements
+----------------------------------------------------
+7) write a program to calculate bmi(body to mass index) and display obesity level of person from given height
+    (foot and inch) and weight.
+BMI = weight (kg) / [height (m)]²
+
+For example, if your weight is 70 kg and your height is 1.75 m:
+BMI = 70 / (1.75 × 1.75) = 22.86
+📊 BMI Categories (For Adults):
+BMI Range	        Category
+Less than 18.5	    Underweight
+18.5 – 24.9	        Normal (Healthy weight)
+25 – 29.9	        Overweight
+30 – 34.9	        Obesity (Class I)
+35 – 39.9	        Obesity (Class II)
+40 or more	        Extreme Obesity (Class III)
+
+Write a program that takes a percentage as integer as input and prints the grade using the following conditions:
+
+| Percentage | Grade |
+| ---------- | ----- |
+| 90–100     | A+    |
+| 80–89      | A     |
+| 70–79      | B     |
+| 60–69      | C     |
+| 50–59      | D     |
+| below 50   | Fail  |
+
+
+switch decsion making
+-----------------------------
+write a program to accept month number from user and display name of the month how many days that month has.
+    input : 1 print It is January and it has 31 days 
+
+
+nested decision making 
+----------------------------------
+9) write a program to check whether given year is leap year or not. (use nested decision making)
+use website wikihow for understanding of concept
+10) write a program to accept birth date and month from user. decide zodiac sign from below table 
+Aries: March 21–April 19
+Taurus: April 20–May 20
+Gemini: May 21–June 21
+Cancer: June 22–July 22
+Leo: July 23–August 22
+Virgo: August 23–September 22
+Libra: September 23–October 22
+Scorpio: October 24–November 21
+Sagittarius: November 22–December 21
+Capricorn: December 22–January 19
+Aquarius: January 20–February 18
+Pisces: February 19–March 20
+
+nested decision making
+---------------------------------------
+1) write a program to findout when cylinder has smallest surface area from 3 given cylinder's dimension.
+
+2) write a program to findout whehther given year is leap year or not.
+
+loop 
+-------------------------------
+1) 2 4 6 8 10 12 14 .... 100
+2) 1 2 4 8 16 32 64 128 256 ...
+3) 1 3 6 10 15 21 28 36 ...
+4) 1 4 9 16 25 36 49 64 ...
+5) 0 0 1 2 3 5 8 13 21 .... 1000
+
+work upon number 
+----------------------
+write a program to findout whether given number is armstrong number or not 
+//example of armstrong number -> 1 153 (1x1x1 + 5x5x5 + 3x3x3) = 153
+// 153, 370, 371, and 407
+
+write a program to print numbers into words 
+number : 12345 
+output : one two three four five 
+
+write a program to reverse given number 
+    example 12345
+    output 54321
+
+
+
+5) write a program to find & display factorial of given number. 
+6) write a program to find & display whether given number is prime number or not 
+7) write a program to find & display whether given number is perfect number or not 
+8) write a program to findout whether given number is composite number or not 
+9) write a program to findout whether given number is Palindromic Numbers
+for in loop 
+-------------------------------
+1) write a program to findout whether how many names in list start with vowels.
+    family = ['Ankit','Diya','Jiya','Kashish','Mahendra']
+2) write a program to findout count of positive and negative value in numeric list.
+
+do while loop 
+-----------------------------------
+1) 27   125 ........  1000 
+2) 1, 2, 4, 8, 16, 32, 64, 128, 256, ... (Geometric sequence, doubling each term)
+3) 1 -3 5 -7 9 -11 13
+4) 1 5 4 10 7 15
+5) 1 3 7 13 22
+6) 1 8 9 64 25 216
+
+
+for loop 
+--------------------------------------------------------------
+1) write a program to program findout exponent of given value 
+2) write a program to findout minimum and maximum from numeric list 
+
+Nested Loop 
+1) 1, 2, 6, 24, 120
+2) 2, 3, 5, 7, 9, 11, 100
+3) write a program to print 1st 10 perfect numbers. 
+
+for In loop 
+1) write a program to count positive and negative number in numeric list 
+2) write a program to count words which start with vowels(a,e,i,o,u)
+    ['apple','mango','elephant','orange','india','ball','hourse',10,true,null]
+
+functions
+1) write a program to create function that convert ceilcius into farenheit 
+2) write a program to create function that convert given dollar into rupees 
+3) write a program that return current time. 
+3) write a program that return current date. 
+---------------------------------------------------------------------------------------------
+arrow function
+1) write a program to convert ceilcius into farenheit 
+2) write a program to convert grams into kilograms 
+3) write a program to findout and return largest number from two number 
+4) write a program to findout and return smallest number from three number 
+
+OOP 
+--------------------------------
+1) create class Product. it should have below instance variable 
+name, price, quantity, weight, description 
+
+create constuctor for initilization
+create method to display 
+
+2) create class Match . it should have below instance variable 
+team1, team2, venue, datetime, result, team1_run,team2_run,
+
+create constuctor for initilization
+create method to display all property, and also declare who is winner
+
+
+3) class class Currency it has one argument constuctor rupees which will initilize instance variable rupees. and it has setter rupees which will rupees also ensure rupees is not negative and it has below getter 
+    dollar which return rupees into dollar 
+    euro which return rupees into euro
+    pound which return rupees into pound 
+
+inheritance
+------------------------------------
+1) create single level inheritance example 
+    create class MyDate which store current date using dart library class 
+    it has methods 
+    --------------
+        getDate() returns 10-10-2025
+
+    create class MyDateFormatter which extends MyDate class 
+        it has methods
+        ------------------------
+            getDayOfWeek() return Friday 
+            getFullDate()  return Tuesday 02-sept-2025
+            getFullDateTime()  return 11:12 AM Tuesday 02-sept-2025
+
+create multilevel inheritance example 
+    Kilo  has contructor and function that returns KiloGram 
+    Kiwntle has contructor and function that returns  Kiwntle
+    Ton  has contructor and function that returns Ton 
+
+create multilevel inheritance example
+    Foot has contructor for inch and function that returns Foot
+    Meter has contructor and function that returns Meter 
+    KiloMeter has contructor and function that returns KiloMeter
+    Mile has contructor and function that returns Mile 
+Create example using 55th example
+    make total of all book 
+    also findout average price of all book 
+    display books below 200 rs price 
+    search book using given name & author name 
+        for example book name The Lean Startup and author is Eric Ries
+    if book found display all detail otherwise display message book not found
+Lambda function
+---------------------------------------------
+    1) create lambda function to convert Liter into Milileter 
+    2) create lambda function that return current Date As String in dd-mm-YYYY format 
+    3) create lambda function that return current Time As String in HH:MM:SS format 
+annonymus function 
+----------------------------------------------
+    1) create annonymus function on String type list that has 20 words. count words start with vowels (a,e,i,o,u) 
+    2) create annonymus function on integer list that has 20 numbers. cound odd and even numbers in this list 
+class & object
+1) create class School, store School name, establisher year, area in square meter and display method to display all variable. 
+2) create class Movie, store movie name, release year, length in double. starcast detail as string & display function 
+3) add constuctor with argument in 1st example 
+4) add constuctor with argument in 2nd example 
