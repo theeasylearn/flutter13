@@ -17,7 +17,4 @@ void main()
         next = previous + current;
         stdout.write("$next  ");
     }
-
-    
-
 }
