@@ -13,8 +13,9 @@ void main()
     "nationalBird": "Peacock",
     "nationalFlower": "Lotus"
   };
-  for (var key in india)
+  for (var entry in india.entries)
   {
-    print(key);
+    print(entry.key); 
+    print(entry.value);
   }
 }
