@@ -174,10 +174,16 @@ functions
 3) write a program that return current date. 
 ---------------------------------------------------------------------------------------------
 arrow function
-1) write a program to convert ceilcius into farenheit 
+1) write a program to convert celsius into fahrenheit 
 2) write a program to convert grams into kilograms 
 3) write a program to findout and return largest number from two number 
 4) write a program to findout and return smallest number from three number 
+
+anonyms/Lambda/Closure function
+5) write a program to findout and display only that countries whose name ends with tan like turkmanistan, afghanistan etc. 
+
+6) write a program to filter numeric list. all value < 10 should be stored in list1, values between >=10 and <=20 should be store in list2, and remaining value should be stored in list 3. display all list. if value in original list is negative then convert it into positive value. 
+
 
 OOP 
 --------------------------------
