@@ -212,6 +212,12 @@ create method to display all property.
     euro which return rupees into euro
     pound which return rupees into pound 
 
+5) create class StorageConvert. it has one private variable _bytes. and setter method bytes that will initialize _bytes. if values are negative it should be converted into positive value. and it has below getter methods 
+    KB which return kilobytes of _bytes 
+    MB which return megabytes of _bytes 
+    GB which return gigabytes of _bytes 
+    TB which return terabytes of _bytes 
+
 
 inheritance
 ------------------------------------
